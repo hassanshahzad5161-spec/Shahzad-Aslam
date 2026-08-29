@@ -1,0 +1,19 @@
+ 64  girt remote -v
+   65  git remote -v
+   66  git remote origin master
+   67  git push origin master
+   68  git add
+   69  git add testing.py
+   70  git commit -m "new file"
+   71  git status
+   72  git push origin master
+   73  python3testing.py
+   74  python3 testing.py
+   75  git push origin master
+   76  git add testing.py
+   77  git commit-m ("new changing")
+   78  git commit -m ("New changing")
+   79  git commit -m "New changing"
+   80  git push origin master
+   81  python3 hello.txt
+   82  history
