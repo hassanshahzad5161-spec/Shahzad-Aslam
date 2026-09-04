@@ -1,7 +1,9 @@
-def hello ():
-  """
-This is demo file.
-  """
-  return("Hello World")
-  hello()
-  
+"""This is demo file."""
+
+
+def hello():
+    """Return a greeting."""
+    return "Hello World"
+
+
+hello()
