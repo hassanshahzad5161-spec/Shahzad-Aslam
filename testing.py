@@ -1,9 +1,8 @@
-"""This is demo file."""
-
-
 def hello():
-    """Return a greeting."""
+    """
+    This function prints a greeting message to the console.
+    
+    """
     return "Hello World"
-
 
 hello()
