@@ -1,8 +1,5 @@
 def hello():
-    """
-    This function prints a greeting message to the console.
-    
-    """
+    """This function prints a greeting message to the console."""
     return "Hello World"
 
 hello()
